@@ -1,7 +1,7 @@
 [
   {
     "vehicle_type_id": 1,
-    "vehicle_type": "Ride X",
+    "vehicle_type": "UberX",
     "description": "Standard",
     "base_rate": 2.5,
     "per_mile": 1.75,
@@ -9,7 +9,7 @@
   },
   {
     "vehicle_type_id": 2,
-    "vehicle_type": "Ride XL",
+    "vehicle_type": "UberXL",
     "description": "Extra Large",
     "base_rate": 3.5,
     "per_mile": 2.25,
@@ -17,7 +17,7 @@
   },
   {
     "vehicle_type_id": 3,
-    "vehicle_type": "Ride POOL",
+    "vehicle_type": "UberPOOL",
     "description": "Shared Ride",
     "base_rate": 2.0,
     "per_mile": 1.5,
@@ -25,7 +25,7 @@
   },
   {
     "vehicle_type_id": 4,
-    "vehicle_type": "Ride Comfort",
+    "vehicle_type": "Uber Comfort",
     "description": "Comfortable",
     "base_rate": 3.0,
     "per_mile": 2.0,
@@ -33,10 +33,11 @@
   },
   {
     "vehicle_type_id": 5,
-    "vehicle_type": "Ride Black",
+    "vehicle_type": "Uber Black",
     "description": "Premium",
     "base_rate": 5.0,
     "per_mile": 3.5,
     "per_minute": 0.6
   }
+
 ]

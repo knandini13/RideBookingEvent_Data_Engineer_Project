@@ -4,6 +4,7 @@ Real-Time Ride Booking Data Pipeline is an end-to-end real-time data engineering
 
 <img width="1175" height="592" alt="image" src="https://github.com/user-attachments/assets/fd5975fe-7633-48d2-9448-b203580ddb7b" />
 
+<img width="722" height="515" alt="image" src="https://github.com/user-attachments/assets/c45a62cf-1ee8-4157-bef9-0b3acc7f5c22" />
 
 
 
